@@ -2,7 +2,7 @@
 
 ![Risk Management Dashboard](screenshots/dashboard.png)
 
-A comprehensive risk management analytics solution developed for EY's Risk Management team. This dashboard provides real-time risk analytics, visualization, and recommendations for enterprise risk management.
+A comprehensive risk management analytics solution developed for  Risk Management team. This dashboard provides real-time risk analytics, visualization, and recommendations for enterprise risk management.
 
 
 
