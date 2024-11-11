@@ -1,6 +1,6 @@
 # Enterprise Risk Management Dashboard
 
-![Risk Management Dashboard](Risk Score Trends.png)
+![Risk Management Dashboard](https://github.com/miladnasiri/Risk-Analytics-Project-Showcasing-Data-Visualization-and-Insights/blob/ecf4bc9ec35aca92023e3960279cfd84864d9b8d/Risk%20Score%20Trends.png)
 
 A comprehensive risk management analytics solution developed for  Risk Management team. This dashboard provides real-time risk analytics, visualization, and recommendations for enterprise risk management.
 
