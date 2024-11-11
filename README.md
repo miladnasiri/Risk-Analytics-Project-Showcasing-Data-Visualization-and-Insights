@@ -148,7 +148,7 @@ risk_analytics/
 ![Risk Trends](https://github.com/miladnasiri/Risk-Analytics-Project-Showcasing-Data-Visualization-and-Insights/blob/ecf4bc9ec35aca92023e3960279cfd84864d9b8d/Risk%20Score%20Trends.png)
 
 ### Department Risk Comparison
-![Department Comparison](screenshots/dept_comparison.png)
+![Department Comparison](https://github.com/miladnasiri/Risk-Analytics-Project-Showcasing-Data-Visualization-and-Insights/blob/875963c1085e4e4576c7eb2a8f2f78533bf95562/Department%20Risk%20Comparison.png)
 
 ## 🤝 Contributing
 
