@@ -1,6 +1,6 @@
 # Enterprise Risk Management Dashboard
 
-![Risk Management Dashboard](https://github.com/miladnasiri/Risk-Analytics-Project-Showcasing-Data-Visualization-and-Insights/blob/eccb4cee9eadbf716923ce7ee28436bfa3a88555/Risk%20Management%20Dashboard.webm)
+![Risk Management Dashboard](https://github.com/miladnasiri/Risk-Analytics-Project-Showcasing-Data-Visualization-and-Insights/blob/100c3ae5137fd66ba16487e87cffb272fe73ca6c/Risk%20Management%20Dashboard.mp4)
 
 A comprehensive risk management analytics solution developed for  Risk Management team. This dashboard provides real-time risk analytics, visualization, and recommendations for enterprise risk management.
 
